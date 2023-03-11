@@ -1,5 +1,8 @@
-import java.io.BufferedWriter;
-import java.io.*;
+package org.example.logger;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.time.LocalDateTime;
 
 public class FileLogger {

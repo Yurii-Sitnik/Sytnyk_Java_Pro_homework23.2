@@ -1,3 +1,4 @@
+package org.example.logger;
 
 import java.io.IOException;
 

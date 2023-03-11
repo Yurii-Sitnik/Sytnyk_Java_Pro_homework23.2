@@ -1,4 +1,4 @@
-
+package org.example.logger;
 
 public class FileLoggerConfiguration {
     private LogLevel level;

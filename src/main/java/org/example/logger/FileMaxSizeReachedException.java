@@ -1,3 +1,5 @@
+package org.example.logger;
+
 public class FileMaxSizeReachedException extends RuntimeException {
             String string;
 
